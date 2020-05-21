@@ -1,0 +1,23 @@
+{
+  "name": "canvas-help",
+  "version": "1.0.0",
+  "description": "Help for KAS's canvas.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next"
+  },
+  "repository": "https://github.com/kingalfred/canvas-help.git",
+  "author": "Ori Marash <games@marash.net>",
+  "license": "MIT",
+  "dependencies": {
+    "jekyll-markdown-parser": "^4.0.0",
+    "next": "^9.4.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "remark-frontmatter": "^2.0.0",
+    "remark-parse": "^8.0.2",
+    "remark-react": "^7.0.1",
+    "unified": "^9.0.0"
+  }
+}
